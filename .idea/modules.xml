@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SmartEngine_h/SmartEngine_h.iml" filepath="$PROJECT_DIR$/../SmartEngine_h/SmartEngine_h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../piflow_white_h/piflow_white_h.iml" filepath="$PROJECT_DIR$/../piflow_white_h/piflow_white_h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sharedemo.iml" filepath="$PROJECT_DIR$/../sharedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharesdk.iml" filepath="$PROJECT_DIR$/sharesdk.iml" />
+    </modules>
+  </component>
+</project>

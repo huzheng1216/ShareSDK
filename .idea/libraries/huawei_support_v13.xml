@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="huawei-support-v13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../piflow_white_h/libs/huawei-support-v13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

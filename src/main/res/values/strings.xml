@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShareSDK</string>
+    <string name="is_copylink">复制</string>
+    <string name="is_email">邮件</string>
+    <string name="is_kaixin">开心网</string>
+    <string name="is_qq">QQ</string>
+    <string name="is_qzone">QQ空间</string>
+    <string name="is_renren">人人网</string>
+    <string name="is_shortmessage">短信</string>
+    <string name="is_sinaweibo">新浪微博</string>
+    <string name="is_tencentweibo">腾讯微博</string>
+    <string name="is_wechat">微信</string>
+    <string name="is_wechatfavorite">微信收藏</string>
+    <string name="is_wechatmoments">微信朋友圈</string>
+    <string name="is_yixin">易信</string>
+    <string name="is_yixinfriends">易信朋友圈</string>
+    <string name="is_more">更多</string>
+
+    <string name="share_success">分享成功</string>
+    <string name="share_cancel">取消分享</string>
+    <string name="share_deny">分享失败</string>
+    <string name="share_unknow">未知错误</string>
+
+    <string name="weibosdk_demo_toast_auth_success">授权成功</string>
+    <string name="weibosdk_demo_toast_auth_failed">授权失败</string>
+    <string name="weibosdk_demo_toast_auth_canceled">取消授权</string>
+    <string name="weibosdk_demo_toast_register_app_to_weibo">已注册，请打开微博客户端查看是否注册成功。</string>
+
+    <string name="copy_success">复制成功</string>
+    <string name="copy_deny">复制失败</string>
+</resources>

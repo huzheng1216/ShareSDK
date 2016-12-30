@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hwframework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../piflow_white_h/libs/hwframework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

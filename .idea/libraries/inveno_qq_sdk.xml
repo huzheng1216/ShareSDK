@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inveno_qq_sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/inveno_qq_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
